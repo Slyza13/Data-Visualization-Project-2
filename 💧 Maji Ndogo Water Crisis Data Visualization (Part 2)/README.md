@@ -54,7 +54,7 @@ To transform a multi-table SQL dataset into an interactive Power BI dashboard, e
 
 | National Overview | Queue Analysis |
 |-------------------|----------------|
-| ![National Overview](Visuals/1.PNG) | ![Queue Analysis](Visuals/2.PNG) |
+| ![National Overview](💧 Maji Ndogo Water Crisis Data Visualization (Part 2)/Visuals/1.PNG) | ![Queue Analysis](Visuals/2.PNG) |
 
 | Pollution Dashboard | Crime & Safety |
 |---------------------|----------------|
@@ -83,4 +83,5 @@ To transform a multi-table SQL dataset into an interactive Power BI dashboard, e
 
 This project was completed as part of the **ALX / ExploreAI Academy Data Science Program**.  
 Dataset and problem framing are **fictional** and created for **educational purposes**.  
+
 
